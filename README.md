@@ -2,6 +2,6 @@
 
 A Geospatial on fastfood chains in taiwan
 
-###See our wiki:
-*[Proposal](https://wiki.smu.edu.sg/1920t1smt201/TaiHua_Proposal)
-*[Web Map](https://wiki.smu.edu.sg/1920t1smt201/TaiHua_WebMap)
+### See our wiki:
+* [Proposal](https://wiki.smu.edu.sg/1920t1smt201/TaiHua_Proposal)
+* [Web Map](https://wiki.smu.edu.sg/1920t1smt201/TaiHua_WebMap)
